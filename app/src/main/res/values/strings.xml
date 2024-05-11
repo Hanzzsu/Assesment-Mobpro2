@@ -1,3 +1,40 @@
 <resources>
-    <string name="app_name">Asessmen2Mobpro</string>
+    <string name="app_name">Hanzz Laundry</string>
+
+    <string name="list_outfits_kosong">Belum ada data Pesanan</string>
+    <string name="tambah_outfits">Tambah Pesanan</string>
+
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="hapus">Hapus</string>
+    <string name="edit">Edit</string>
+
+    <string name="data_kosong">Data kosong</string>
+    <string name="nama_kosong">Nama Pemesan Tidak Boleh Kosong!</string>
+    <string name="jenis_kosong">Silahkah Pilih Jenis Pakaian!</string>
+    <string name="jumlah_kosong">Silahkan Isi Jumlah Pakain!</string>
+
+    <string name="nama">Nama</string>
+    <string name="jenis">Jenis</string>
+    <string name="jumlah">Jumlah</string>
+
+    <string name="jenis_output">Jenis : %1$s</string>
+    <string name="jumlah_output">Jumlah : %1$s</string>
+
+    <string name="baju">Baju</string>
+    <string name="celana">Celana</string>
+
+    <string name="pcs">pcs</string>
+    <string name="cm">cm</string>
+    <string name="kg">kg</string>
+
+    <string name="isi">Isi</string>
+
+    <string name="pesan_hapus">Apakah Anda yakin ingin menghapus Pesanan ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
 </resources>
